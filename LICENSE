@@ -1,0 +1,72 @@
+MIT License
+
+Copyright (c) 2026 Moe Kyaw Aung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+ATTRIBUTION NOTICE
+
+This project — "Flutter Portfolio Pro Max V2" — is the personal portfolio of
+Moe Kyaw Aung, Senior Android & Flutter Engineer, Tachileik, Myanmar.
+
+You are free to:
+  ✅ Use this as a template or starting point for your own portfolio
+  ✅ Study, modify, and learn from the code
+  ✅ Share the code with proper attribution
+  ✅ Use in commercial and non-commercial projects
+
+You must:
+  📌 Include this license and copyright notice in all copies
+  📌 Give appropriate credit: "Based on work by Moe Kyaw Aung (github.com/moekyawaung)"
+  📌 Replace all personal data (name, email, GitHub links, certificates, photos)
+     with your own information before publishing as your own portfolio
+
+You may NOT:
+  ❌ Claim this portfolio as your own without modification
+  ❌ Publish this portfolio with Moe Kyaw Aung's personal information intact
+     and present it as your own work
+  ❌ Remove or alter copyright notices in distributed copies
+
+-------------------------------------------------------------------------------
+
+THIRD-PARTY NOTICES
+
+This software uses the following third-party resources:
+
+Google Fonts
+  - Syne (© 2017 Bonjour Monde, OFL 1.1)
+  - Outfit (© 2021 Rodrigo Fuenzalida, OFL 1.1)
+  - DM Mono (© 2020 Colophon Foundry, OFL 1.1)
+  - License: https://scripts.sil.org/OFL
+
+Web APIs used (no additional licenses required):
+  - Canvas API
+  - IntersectionObserver API
+  - Service Worker API
+  - Web App Manifest
+  - Web Push API
+  - Background Sync API
+
+-------------------------------------------------------------------------------
+
+Contact: moekyawaung@gmail.com
+GitHub:  https://github.com/moekyawaung
+Web:     https://moekyawaung.github.io
