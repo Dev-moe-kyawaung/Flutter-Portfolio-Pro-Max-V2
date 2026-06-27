@@ -2,149 +2,178 @@
 ### Senior Android & Flutter Engineer · Tachileik, Myanmar 🇲🇲
 ### Obsidian × Cyan × Gold Design System
 
----
+[![GitHub Stars](https://img.shields.io/github/stars/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2?style=social)](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2?style=social)](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/forks)
+[![License: Other](https://img.shields.io/badge/License-Other-blue.svg)](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/blob/main/LICENSE)
 
-## 🚀 GitHub Pages — Quick Deploy (3 Steps)
+--- 
 
-### Step 1 — Create Repository
-```
-Option A (root domain):   your-username.github.io
-Option B (subpath):       moe-portfolio-v2
-```
+## ✨ Description
 
-### Step 2 — Upload These Files
-```
-flutter-portfolio-v2/
-├── index.html        ← Main portfolio (upload this)
-├── manifest.json     ← PWA manifest (upload this)
-├── sw.js             ← Service Worker (upload this)
-├── icon-192.png      ← App icon 192×192 (create + upload)
-└── icon-512.png      ← App icon 512×512 (create + upload)
-```
+This repository houses **Flutter-Portfolio-Pro-Max-V2**, an ultra-professional, maximalist luxury Flutter/Dart themed portfolio website. It boasts a stunning design system featuring a deep obsidian background, electric cyan and gold duotone accents, editorial layout with massive typography, glassmorphism cards, SVG Flutter widget tree visualization, immersive multi-layer parallax effects, and cinematic section transitions.
 
-### Step 3 — Enable GitHub Pages
-```
-Repo → Settings → Pages
-→ Source: Deploy from a branch
-→ Branch: main / (root)
-→ Save
-→ Wait 60s → Visit https://your-username.github.io
-```
+As a Progressive Web App (PWA), it offers an installable, offline-first experience with advanced service worker strategies for optimal performance and reliability.
 
----
+--- 
 
-## 📱 PWA Install Flow
+## 🚀 Table of Contents
 
-### Android (Chrome):
-1. Visit your GitHub Pages URL
-2. Banner appears after 4 seconds → tap **Install**
-3. OR: ⋮ Menu → **Add to Home Screen**
+*   [About](#about)
+*   [Skills](#skills)
+*   [Experience](#experience)
+*   [Projects](#projects)
+*   [Certifications](#certifications)
+*   [GitHub Universe](#github-universe)
+*   [Contact](#contact)
+*   [Features](#features)
+*   [Tech Stack](#tech-stack)
+*   [Installation](#installation)
+*   [Usage](#usage)
+*   [Project Structure](#project-structure)
+*   [Contributing](#contributing)
+*   [License](#license)
+*   [Important Links](#important-links)
 
-### iOS (Safari):
-1. Open in Safari
-2. Tap **Share** → **Add to Home Screen** → **Add**
+--- 
 
-### Desktop (Chrome / Edge):
-1. Click the ⊕ icon in the address bar
-2. Click **Install**
+## 🌟 Features
 
----
+This portfolio is packed with cutting-edge features designed for a premium user experience:
 
-## 🎨 Create PWA Icons (Free)
+*   ✨ **Obsidian × Cyan × Gold Design System:** A striking and luxurious color palette and aesthetic.
+*   🌌 **Multi-layer Noise Texture Overlay:** Adds depth and visual interest to the background.
+*   ✨ **Animated Particle Canvas:** Mouse-reactive particle effects for an immersive feel.
+*   📱 **Flutter Widget Inspector Mockup:** Showcases an interactive Flutter widget tree within a device frame.
+*   🎬 **Cinematic Hero Section:** Features a gradient headline and animated elements.
+*   💫 **Custom Tri-layer Cursor:** Unique cursor with a dot, ring, and trail effect.
+*   📈 **Scroll Progress Bar:** Visual indicator of reading progress.
+*   ⏳ **Preloader with Counter:** Enhances initial loading experience.
+*   ✍️ **Typing Animation:** Dynamically types out various professional roles.
+*   🔢 **Animated Stat Counters:** Engaging display for key statistics.
+*   📊 **Animated Skill Bars:** Visually represents proficiency levels.
+*   🔄 **Dual-Direction Certificate Marquee:** Showcases certifications in a dynamic, scrolling format.
+*   💎 **Glassmorphism Cards:** Modern UI elements with a translucent, frosted glass effect.
+*   🧭 **Sticky Navbar Auto-Hide:** Improves screen real estate by auto-hiding the navbar on scroll.
+*   💡 **Dark/Light Mode Toggle:** Allows users to switch between color themes.
+*   ☰ **Mobile Hamburger Menu:** Responsive navigation for smaller screens.
+*   🔔 **PWA Install Toast:** Prompts users to install the PWA.
+*   🛡️ **Advanced Service Worker:** Implements robust caching strategies (Cache-First, Stale-While-Revalidate).
+*   ☁️ **Background Sync Support:** Enables background data synchronization.
+*   💌 **Push Notification Handler:** Manages push notifications for PWA users.
+*   🖱️ **Scroll Reveal Animations:** Elements animate into view as the user scrolls.
+*   🌟 **Floating Device Badges:** Adds dynamic visual flair with floating badges.
+*   📌 **Sticky "Hire Me" & Scroll-to-Top:** Convenient persistent call-to-actions.
+*   ✉️ **Contact Form (mailto):** Easy contact through a pre-configured mailto link.
+*   👥 **Extensive GitHub Accounts Grid:** Links to 43 different GitHub accounts.
+*   📜 **Vast Certificate Showcase:** Displays 82+ certificates in both marquee and grid formats.
+*   📱 **Fully Responsive (Mobile-First):** Adapts seamlessly across all device sizes.
 
-### Option A — Favicon Generator
-1. Go to https://realfavicongenerator.net
-2. Upload a 512×512 Flutter logo PNG
-3. Download package → rename:
-   - `android-chrome-192x192.png` → `icon-192.png`
-   - `android-chrome-512x512.png` → `icon-512.png`
+--- 
 
-### Option B — Quick Flutter Logo SVG → PNG
-Use https://squoosh.app or https://cloudconvert.com
+## 🛠️ Tech Stack
 
-### Option C — Create a simple placeholder:
-Any solid 192×192 and 512×512 image named `icon-192.png` and `icon-512.png` works.
+*   **Languages:** HTML, CSS, JavaScript, Markdown, JSON
+*   **Frameworks/Libraries:** React, TypeScript, Python (implicitly mentioned in analysis, though not directly used in the frontend code)
+*   **Styling:** Custom CSS variables, Glassmorphism, Animations
+*   **Progressive Web App (PWA):** Manifest, Service Worker (Cache-First, Stale-While-Revalidate)
+*   **Deployment:** GitHub Pages
 
----
+--- 
 
-## 🌐 Custom Domain Setup
+## 📦 Installation
 
-```bash
-# 1. Create CNAME file in repo root:
-echo "moekyawaung.dev" > CNAME
+This project is designed for direct deployment on GitHub Pages. No complex installation is required.
 
-# 2. DNS Settings (at your registrar):
-CNAME  www   →  your-username.github.io
-A      @     →  185.199.108.153
-A      @     →  185.199.109.153
-A      @     →  185.199.110.153
-A      @     →  185.199.111.153
+**Steps for GitHub Pages Deployment:**
 
-# 3. GitHub → Settings → Pages → Custom domain → Save
-# 4. Check "Enforce HTTPS"
-```
+1.  **Create Repository:**
+    *   Option A (root domain): `your-username.github.io`
+    *   Option B (subpath): `moe-portfolio-v2`
+2.  **Upload Files:** Upload the following files to your repository:
+    ```
+    flutter-portfolio-v2/
+    ├── index.html        ← Main portfolio
+    ├── manifest.json     ← PWA manifest
+    ├── sw.js             ← Service Worker
+    ├── icon-192.png      ← App icon 192×192
+    └── icon-512.png      ← App icon 512×512
+    ```
+3.  **Enable GitHub Pages:**
+    *   Go to your repository settings.
+    *   Navigate to **Pages**.
+    *   Set the **Source** to `Deploy from a branch`.
+    *   Select your `main` branch and `/(root)` folder.
+    *   Save the changes.
+    *   Wait approximately 60 seconds for the deployment to complete.
+    *   Visit your GitHub Pages URL (e.g., `https://your-username.github.io`).
 
----
+--- 
 
-## ✏️ Customization Checklist
+## 💡 Usage
 
-| Item | Location in index.html |
-|------|----------------------|
-| Photo | `about-avatar-fallback` → add `<img>` tag |
-| Email | Search `moekyawaung@gmail.com` |
-| LinkedIn URL | Search `linkedin.com/in/moekyawaung` |
-| GitHub accounts | `#github` section |
-| Project links | `href="#"` in project cards |
-| Certificates | `#certs` section |
+This portfolio is a showcase of skills and a personal branding tool. It demonstrates expertise in modern web development, PWA capabilities, and sophisticated UI/UX design.
 
----
+**Key Usage Scenarios:**
 
-## ⚡ V2 Features
+*   **Personal Branding:** Present your skills, experience, and projects in a visually stunning and professional manner.
+*   **PWA Showcase:** Demonstrate the implementation of PWA features like offline access, installability, and service workers.
+*   **UI/UX Design Inspiration:** Serve as a reference for modern design trends, animations, and interactive elements.
+*   **Developer Content Platform:** The integrated links to social media and content platforms highlight community engagement and knowledge sharing.
 
-| Feature | Status |
-|---------|--------|
-| Obsidian × Cyan × Gold design system | ✅ |
-| Multi-layer noise texture overlay | ✅ |
-| Animated particle canvas (mouse-reactive) | ✅ |
-| Flutter Widget Inspector phone mockup | ✅ |
-| Cinematic hero with gradient headline | ✅ |
-| Custom tri-layer cursor (dot + ring + trail) | ✅ |
-| Scroll progress bar | ✅ |
-| Preloader with counter | ✅ |
-| Typing animation (8 roles) | ✅ |
-| Animated stat counters | ✅ |
-| Animated skill bars | ✅ |
-| Dual-direction cert marquee | ✅ |
-| Glass morphism cards | ✅ |
-| Navbar auto-hide on scroll | ✅ |
-| Dark / Light mode toggle | ✅ |
-| Mobile hamburger menu | ✅ |
-| PWA install toast | ✅ |
-| Advanced Service Worker (v5 strategies) | ✅ |
-| Background sync support | ✅ |
-| Push notification handler | ✅ |
-| Scroll reveal animations | ✅ |
-| Floating device badges | ✅ |
-| Sticky hire me + scroll-top | ✅ |
-| Contact form → mailto | ✅ |
-| 43 GitHub accounts grid | ✅ |
-| 82+ Certificates (marquee + grid) | ✅ |
-| Fully responsive (mobile-first) | ✅ |
+**PWA Install Flow:**
 
----
+*   **Android (Chrome):** Visit the site; an install banner will appear after 4 seconds, or use the ⋮ menu → "Add to Home Screen".
+*   **iOS (Safari):** Open in Safari, tap the **Share** button → **Add to Home Screen** → **Add**.
+*   **Desktop (Chrome/Edge):** Click the install icon (⊕) in the address bar and confirm.
 
-## 🔧 Service Worker Cache Strategies
+--- 
 
-| Asset Type | Strategy |
-|-----------|---------|
-| HTML pages | Stale-While-Revalidate |
-| JS / CSS | Cache-First |
-| Google Fonts | Cache-First (long-lived) |
-| Images / Cloudinary | Cache-First |
-| External APIs | Network-First |
-| Offline fallback | `/index.html` |
+## 📂 Project Structure
 
----
+While a full file tree is extensive, the core structure revolves around:
+
+*   `index.html`: The single-page application's entry point.
+*   `manifest.json`: PWA manifest file defining app metadata and icons.
+*   `sw.js`: Service worker script handling caching and offline capabilities.
+*   `README.md`: Project documentation.
+*   `LICENSE`: Project licensing information.
+*   `CONTRIBUTING.md`: Guidelines for contributors.
+*   `CODE_OF_CONDUCT.md`: Community guidelines.
+*   `CNAME`: Custom domain configuration file for GitHub Pages.
+*   `icon-192.png` / `icon-512.png`: App icons for PWA installation.
+*   Static assets (images, fonts) are implicitly managed within the `index.html`'s inline styles and script.
+
+--- 
+
+## 🔧 Contributing
+
+Standard contribution guidelines apply. Please refer to `CONTRIBUTING.md` for details on how to contribute to this project.
+
+--- 
+
+## ⚖️ License
+
+This project is licensed under the **Other** license. Please see the `LICENSE` file for more details.
+
+--- 
+
+## 🔗 Important Links
+
+*   **Live Demo:** [moekyawaung.dev](https://moekyawaung.dev/)
+*   **GitHub Repository:** [Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2)
+*   **Author's GitHub:** [github.com/moekyawaung](https://github.com/moekyawaung)
+*   **Author's LinkedIn:** [linkedin.com/in/moekyawaung](https://linkedin.com/in/moekyawaung)
+
+--- 
+
+## 📄 Footer
+
+© 2026 Moe Kyaw Aung · Senior Android & Flutter Engineer · Tachileik, Myanmar 🇲🇲
 
 Built with 🐦 Flutter Spirit · Obsidian × Cyan × Gold
-© 2026 Moe Kyaw Aung · Senior Android & Flutter Engineer
+
+[Fork](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/fork) | [Star ⭐](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/stargazers) | [Watch 👀](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/watchers) | [Issue 🐛](https://github.com/Dev-moe-kyawaung/Flutter-Portfolio-Pro-Max-V2/issues)
+
+
+---
+**<p align="center">Generated by [ReadmeCodeGen](https://www.readmecodegen.com/)</p>**
